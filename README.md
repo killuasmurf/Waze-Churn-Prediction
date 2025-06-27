@@ -1,6 +1,6 @@
 # Waze-Churn-Prediction
 
-> _This project was used by me to learn more about ML with ensemble of of tree-based models. It is split into 14 sections ->
+> _This project was used by me to learn more about ML with ensemble of of tree-based models. It is split into 14 sections ->_
 1) Imports 
 2) Data loading & cleaning
 3) Feature Engineering
